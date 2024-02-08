@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">⚡Frontend<br> 📄Link - #<br>Added Login/Signup<br>Cart Functionality with each user <br>Cart Added items will be automatically fetched as per User<br>Added Product Category Page<br>Created Admin Pannel to add Products</p>
+<p align="left">⚡Frontend<br> 📄Link - #<br> User authentication and authorization using JWT<br>Product browsing and searching<br>Shopping cart management<br>User profile management<br>Admin dashboard for managing products and users</p>
 
 ###
 
