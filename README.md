@@ -36,7 +36,6 @@
 
 ###
 
-<p align="left">⚡Backend <br> View All Products - https://e-com-uryk.onrender.com/allproducts<br>Popular In Women - https://e-com-uryk.onrender.com/popularinwomen<br>New Collection - https://e-com-uryk.onrender.com/newcollections<br>Product Images - https://e-com-uryk.onrender.com/images/product_1706727575103.png</p>
 
 ###
 
