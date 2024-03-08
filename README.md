@@ -39,7 +39,7 @@
 
 ###
 
-<p align="left">⚡Frontend<br> 📄Link -https://e-commerce-backend-frontend.vercel.app/ <br> User authentication and authorization using JWT<br>Product browsing and searching<br>Shopping cart management<br>User profile management<br>Admin dashboard for managing products and users</p>
+<p align="left">⚡Frontend<br> 📄Link -(https://e-commerce-backend-frontend-git-main-anikets-projects-41c644ed.vercel.app/) <br> User authentication and authorization using JWT<br>Product browsing and searching<br>Shopping cart management<br>User profile management<br>Admin dashboard for managing products and users</p>
 
 ###
 
