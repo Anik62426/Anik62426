@@ -38,12 +38,10 @@
 
 
 ###
-
 <p align="left">⚡Frontend<br> Project https://thriving-cocada-72de21.netlify.app/
   <br> User Authentication and Authorization: Implemented secure user authentication and authorization using JWT (JSON Web Tokens) for seamless user experience and data security Server-side application, using Express.js and handling HTTP request for the backend. 
   <br>Product Management: Developed product management system allowing administrators to easily add, edit, and delete products features such as image uploads, product descriptions, and pricing.<br>Shopping Cart Functionality: Created a shopping cart system with features like adding/removing  
    items, updating quantities, and calculating total costs in real-time using JavaScript.
-
   <br>Responsive Design and Categories Filter: responsive design using CSS frameworks like Tailwind-CSS, Product Category filter like Men, Women, Kid.</p>
 
 ###
