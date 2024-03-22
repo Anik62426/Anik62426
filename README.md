@@ -38,7 +38,7 @@
 
 
 ###
-<p align="left">⚡Frontend<br> Project https://thriving-cocada-72de21.netlify.app/
+<p align="left">⚡Frontend<br> Project [https://thriving-cocada-72de21.netlify.app/]
   
   <br> User Authentication and Authorization: Implemented secure user authentication and authorization using JWT (JSON Web Tokens) for seamless user experience and data security Server-side application, using Express.js and handling HTTP request for the backend. 
   
