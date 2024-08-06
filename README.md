@@ -38,7 +38,7 @@
 
 
 ###
-<p align="left">⚡Frontend<br> Project [(https://chothing.netlify.app/)]
+<p align="left">⚡Frontend ⚡Backend <br> Project [(https://chothing.netlify.app/)]
   
 
 ###
