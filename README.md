@@ -26,29 +26,23 @@
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
 </div>
 
-###
+
 
 <h2 align="left">Projects</h2>
 
-###
 
-<p align="left">⚡Frontend ⚡Backend </p>
-###
+<p align="left">⚡Frontend Developer     ⚡Backend Developer </p>
+
 
 
 <h3 align="left">E-Commerce (Backend + Frontend)</h3>
-
-###
-
-
-###
-<p align="left"><br> Project [(https://chothing.netlify.app/)]</p>
+<p align="left"><br> Live Link: https://chothing.netlify.app/</p>
   
 
-###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anik62426&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+
