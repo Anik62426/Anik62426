@@ -32,13 +32,17 @@
 
 ###
 
+<p align="left">⚡Frontend ⚡Backend </p>
+###
+
+
 <h3 align="left">E-Commerce (Backend + Frontend)</h3>
 
 ###
 
 
 ###
-<p align="left">⚡Frontend ⚡Backend <br> Project [(https://chothing.netlify.app/)]
+<p align="left"><br> Project [(https://chothing.netlify.app/)]</p>
   
 
 ###
