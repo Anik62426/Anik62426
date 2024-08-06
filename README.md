@@ -1,14 +1,14 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
+
 
 <h2 align="left">✨ Full Stack Web Developer</h2>
 
-###
+
 
 <h3 align="left">MERN Developer</h3>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
