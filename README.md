@@ -38,7 +38,7 @@
 
 
 ###
-<p align="left">⚡Frontend<br> Project [https://thriving-cocada-72de21.netlify.app/]
+<p align="left">⚡Frontend<br> Project [(https://chothing.netlify.app/)]
   
 
 ###
