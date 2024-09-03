@@ -37,7 +37,10 @@
 
 <h3 align="left">E-Commerce (Backend + Frontend)</h3>
 <p align="left"><br> Live Link: https://chothing.netlify.app/</p>
-  
+
+<video width="400" controls>
+  <source src="https://res.cloudinary.com/dpvt2kpli/video/upload/v1725379279/np0asznxhujqdezbxmtr.mp4" type="video/mp4">
+</video>
 
 
 
