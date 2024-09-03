@@ -38,9 +38,15 @@
 
 <h3 align="left">E-Commerce (Backend + Frontend)</h3>
 <p align="left"><br> Live Link: https://chothing.netlify.app/</p>
+<p align="left"><br>Some Api's </p>
+<p align="left"> For Get All Products: https://ecommerce-backend-27wa.onrender.com/allproducts </p>
+<p align="left"> For Getting Popular In Women Category: https://ecommerce-backend-27wa.onrender.com/popularinwomen </p>
+<p align="left"> For Getting New Collection: https://ecommerce-backend-27wa.onrender.com/newcollections</p>
+<p align="left"> For Filter Products By Category: https://ecommerce-backend-27wa.onrender.com/search/women </p>
+<p align="left"> For Filter Products By Category:  https://ecommerce-backend-27wa.onrender.com/search/men </p>
+<p align="left"> For Filter Products By Category:  https://ecommerce-backend-27wa.onrender.com/search/kids </p>
 
-
-For Full video <a href="https://res.cloudinary.com/dpvt2kpli/video/upload/v1725379279/np0asznxhujqdezbxmtr.mp4"> Click here </a>
+For Demo video <a href="https://res.cloudinary.com/dpvt2kpli/video/upload/v1725379279/np0asznxhujqdezbxmtr.mp4"> Click here </a>
 
 
 
