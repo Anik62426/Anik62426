@@ -6,7 +6,7 @@
 
 
 
-<h3 align="left">MERN Developer</h3>
+<h3 align="left">⚡MERN Developer</h3>
 
 
 
@@ -28,19 +28,33 @@
 
 
 
+
 <h2 align="left">Projects</h2>
 
 
-<p align="left">⚡Frontend Developer     ⚡Backend Developer </p>
+
 
 
 
 <h3 align="left">E-Commerce (Backend + Frontend)</h3>
 <p align="left"><br> Live Link: https://chothing.netlify.app/</p>
 
-<video width="400" controls>
-  <source src="https://res.cloudinary.com/dpvt2kpli/video/upload/v1725379279/np0asznxhujqdezbxmtr.mp4" type="video/mp4">
-</video>
+
+For Full video <a href="https://res.cloudinary.com/dpvt2kpli/video/upload/v1725379279/np0asznxhujqdezbxmtr.mp4"> Click here </a>
+
+
+
+
+https://github.com/user-attachments/assets/23be3850-70c2-4bc2-a19b-4b8478db0f39
+
+<img width="435" alt="Screenshot 2024-03-18 144256" src="https://github.com/user-attachments/assets/6c47d0c1-2dee-4e35-9fcc-06c506446dbc">
+
+<img width="957" alt="Screenshot 2024-03-18 144130" src="https://github.com/user-attachments/assets/309b99cf-1908-41e6-a035-baad4e3e09b3">
+
+<img width="940" alt="Screenshot 2024-03-18 144055" src="https://github.com/user-attachments/assets/b614d3dc-4c92-458a-bd7c-a64506e18829">
+
+
+
 
 
 
