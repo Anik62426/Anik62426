@@ -37,7 +37,7 @@
 
 
 <h3 align="left">E-Commerce (Backend + Frontend)</h3>
-<p align="left"><br> Live Link: https://chothing.netlify.app/</p>
+<p align="left">Live Link: https://chothing.netlify.app/</p>
 <p align="left"><br>Some Api's </p>
 <p align="left"> For Get All Products: https://ecommerce-backend-27wa.onrender.com/allproducts </p>
 <p align="left"> For Getting Popular In Women Category: https://ecommerce-backend-27wa.onrender.com/popularinwomen </p>
