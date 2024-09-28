@@ -2,11 +2,11 @@
 
 
 
-<h2 align="left">✨ Full Stack Web Developer</h2>
+<h2 align="left">✨ Full-Stack Web Engineer</h2>
 
 
 
-<h3 align="left">⚡MERN Developer</h3>
+<h3 align="left">⚡JavaScript Developer</h3>
 
 
 
